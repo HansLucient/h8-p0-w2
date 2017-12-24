@@ -1,0 +1,13 @@
+BACA dan SIMPAN "Angka pertama"
+BACA dan SIMPAN "Angka kedua"
+HITUNG "angka pertama" dikali "angka kedua"
+TULISKAN hasil hitungan
+
+
+BACA dan SIMPAN "Saya Belajar Javascript"
+IF "Saya Belajar JavaScript!"
+TULISKAN hasil "Pasti Bisa!"
+
+BACA dan SIMPAN "angka pertama"
+TAMPILKAN index" yang habis dibagi 3 ditambahkan 1
+Ulangi dan TAMPILKAN deret angka yang akan berhenti sampai deret angka tersebut mencapai angka yang disimpan sebelumnya
